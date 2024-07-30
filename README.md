@@ -1,5 +1,5 @@
 ## Olá, eu sou Carina Fernandes! 😊
-[![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-fernandes-968506142/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-fernandes-968506142/) 
 
 👩🏻‍💻 Estudante de Análise e desenvolvimento de sistemas - SENAC </br>
 💻 Formação Acelerada em Programação (FAP) - SOFTEX</br>
