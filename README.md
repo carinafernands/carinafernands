@@ -1,13 +1,11 @@
 ## Olá, eu sou Carina Fernandes! 😊
 [![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-fernandes-968506142/) 
-[![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-fernandes-968506142/) 
-
 
 👩🏻‍💻 Estudante de Análise e desenvolvimento de sistemas - SENAC </br>
-💻 Formação Acelerada em Programação (FAP) - SOFTEX
+💻 Formação Acelerada em Programação (FAP) - SOFTEX</br>
     BackEnd com JavaScript</br>
-💻 Formacação Acelerada em Soluções de Techdesign (FAST) - CESAR SCHOOL 
-    FrontEnd</br>
+💻 Formacação Acelerada em Soluções de Techdesign (FAST) - CESAR SCHOOL </br>
+    FrontEnd
 
 <div style="display: inline_block"><br/>
 <img align="center" alt ="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
