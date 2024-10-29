@@ -5,8 +5,6 @@
 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas - SENAC </br>
 💻 Formação Acelerada em Programação (FAP) - SOFTEX</br>
 &nbsp;&nbsp;&nbsp;&nbsp;BackEnd com JavaScript</br>
-💻 Formação Acelerada em Soluções de Techdesign (FAST) - CESAR SCHOOL </br>
-&nbsp;&nbsp;&nbsp;&nbsp;FrontEnd
 
 <div style="display: inline-block;">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
