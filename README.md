@@ -6,10 +6,8 @@
 💻 Formação Acelerada em Programação (FAP) - SOFTEX</br>
 &nbsp;&nbsp;&nbsp;&nbsp;BackEnd com JavaScript</br>
 
-<div style="display: inline-block;">
+<div style="display: flex; align-items: center;">
     <img align="center" alt="Carina-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-</div>
-<div style="display: inline-block;">
     <img align="center" alt="Carina-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 </div>
 
