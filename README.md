@@ -8,4 +8,7 @@
 
 <div style ="display> inline_block"><br>
 <img align="center" alt="Carina-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<div style ="display> inline_block"><br>
+<img align="center" alt="Carina-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+
 
